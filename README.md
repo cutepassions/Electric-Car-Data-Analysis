@@ -16,7 +16,7 @@
 ### 소요 기간
 - 3주일 (2021.12.01 ~ 2021.12.22)
 ### 결과
-[](https://github.com/cutepassions/Electric-Car-Data-Analysis/blob/551ee3f1d8e69b845ca388f10c08ecf9b4c913b0/%EC%BD%94%EB%93%9C%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.pdf)
+[결과](https://github.com/cutepassions/Electric-Car-Data-Analysis/blob/551ee3f1d8e69b845ca388f10c08ecf9b4c913b0/%EC%BD%94%EB%93%9C%20%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4.pdf)
 ### 아쉬운 점
 - 데이터 분석을 함에 있어서, 몇몇 자료들은 최신 자료가 아니였고, 우리가 딱 원하는 자료를 찾을 수 없어서 어려움을 좀 겪었다.
 ### 느낀 점
